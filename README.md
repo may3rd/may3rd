@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @may3rd
 - 👀 I’m interested in deep learing
-- 🌱 I’m currently learning Mask_RCNN
+- 🌱 I’m currently learning Mask_RCNN, yolo, and Core ML
 - 💞️ I’m looking to collaborate on smart pid (piping and instrumentation diagram)
 - 📫 How to reach me [may3rd@gmail.com](may3rd@gmail.com)
 
